@@ -563,7 +563,7 @@ Examples:
  ‣ `/ginfo`*:* get information about a Group. 
  
 *need help*
- pm me  [Take Meh Down](https://t.me/Yone_Updates)
+ pm me  [Take Meh Down](https://t.me/myself_gon)
 """
 __mod_name__ = "Infos"
 __command_list__ = ["setbio", "bio", "setme", "me", "info"]
