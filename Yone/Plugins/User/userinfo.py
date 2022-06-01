@@ -562,8 +562,8 @@ Examples:
  ‣ `/info`*:* get information about a user. 
  ‣ `/ginfo`*:* get information about a Group. 
  
-*What is that health thingy?*
- Come and see [HP System explained](https://t.me/Yone_Updates)
+*need help*
+ pm me  [Take Meh Down](https://t.me/Yone_Updates)
 """
 __mod_name__ = "Infos"
 __command_list__ = ["setbio", "bio", "setme", "me", "info"]
