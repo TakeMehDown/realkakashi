@@ -83,18 +83,18 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = """ 𝓗𝓮𝓵𝓵𝓸 *{}*, My name is *{}*! 
-A telegram group management bot. I'm here to help you to manage your groups.
-I have lots of handy features such as:
-‣ Warning system
-‣ Artificial intelligence
-‣ Flood control system
-‣ Note keeping system
-‣ Filters keeping system
-‣ Approvals and much more.
+PM_START_TEXT = """ ʜᴇʟʟᴏ *{}*, ᴍʏ ɴᴀᴍᴇ ɪꜱ *{}*! 
+ᴀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ. ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ.
+ɪ ʜᴀᴠᴇ ʟᴏᴛꜱ ᴏꜰ ʜᴀɴᴅʏ ꜰᴇᴀᴛᴜʀᴇꜱ ꜱᴜᴄʜ ᴀꜱ:
+‣ ᴡᴀʀɴɪɴɢ ꜱʏꜱᴛᴇᴍ
+‣ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ
+‣ ꜰʟᴏᴏᴅ ᴄᴏɴᴛʀᴏʟ ꜱʏꜱᴛᴇᴍ
+‣ ɴᴏᴛᴇ ᴋᴇᴇᴘɪɴɢ ꜱʏꜱᴛᴇᴍ
+‣ ꜰɪʟᴛᴇʀꜱ ᴋᴇᴇᴘɪɴɢ ꜱʏꜱᴛᴇᴍ
+‣ ᴀᴘᴘʀᴏᴠᴀʟꜱ ᴀɴᴅ ᴍᴜᴄʜ ᴍᴏʀᴇ.
 
-So what are you waiting for?
-*Add me in your groups and give me full rights to make me function well.*
+ꜱᴏ ᴡʜᴀᴛ ᴀʀᴇ ʏᴏᴜ ᴡᴀɪᴛɪɴɢ ꜰᴏʀ?
+*ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ɢɪᴠᴇ ᴍᴇ ꜰᴜʟʟ ʀɪɢʜᴛꜱ ᴛᴏ ᴍᴀᴋᴇ ᴍᴇ ꜰᴜɴᴄᴛɪᴏɴ ᴡᴇʟʟ.*
 """
 
 
